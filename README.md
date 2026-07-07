@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋, I'm Dhruv Sharma
 
-<!--
-**Dhruv973/Dhruv973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech in Computer & Communication Engineering**  
+📍 Manipal Institute of Technology (MIT), MAHE
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+- Java
+- C++
+- C
+- Oracle SQL
+- JavaFX
+- Maven
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Problem Solving
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+
+- 🏨 Hotel Management System (JavaFX)
+- 🏏 IPL Management System (Oracle SQL)
+
+---
+
+## 🏏 Extracurricular
+
+- Member, MIT Cricket Team
+- Organizing Committee Member – Sports, Revels 2026
+
+---
+
+## 📫 Connect with me
+
+- GitHub: https://github.com/Dhruv973
+
+> Always learning. Always building. 🚀
