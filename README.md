@@ -1,26 +1,21 @@
-# Hi there 👋, I'm Dhruv Sharma
+# Hi 👋 I'm Dhruv Sharma
 
 🎓 **B.Tech in Computer & Communication Engineering**  
-📍 Manipal Institute of Technology (MIT), MAHE
+📍 Manipal Institute of Technology (MIT), MAHE  
+🎯 Aspiring Software Engineer
 
 ---
 
-## 💻 Technical Skills
+## 💻 Tech Stack
 
-- Java
-- C++
-- C
-- Oracle SQL
-- JavaFX
-- Maven
-
----
-
-## 🌱 Currently Learning
-
-- Data Structures & Algorithms
-- Problem Solving
-- Git & GitHub
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaFX-4CAF50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+</p>
 
 ---
 
@@ -31,15 +26,19 @@
 
 ---
 
-## 🏏 Extracurricular
+## 📚 Currently Learning
 
-- Member, MIT Cricket Team
-- Organizing Committee Member – Sports, Revels 2026
+- Data Structures & Algorithms
+- Git & GitHub
+- Problem Solving
 
 ---
 
-## 📫 Connect with me
+## 🏏 Extracurricular
 
-- GitHub: https://github.com/Dhruv973
+- 🏏 MIT Cricket Team
+- 🏅 Sports Organizing Committee, Revels 2026
 
-> Always learning. Always building. 🚀
+---
+
+⭐ *Always learning. Always building.*
